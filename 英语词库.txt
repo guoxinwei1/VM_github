@@ -1,0 +1,16 @@
+instrumentation：仪器                                   level：水平                                                   component:组件，部件                                           base：基础         
+permissions:权限                                             workload rules：工作规则                           workload pools:工作负载池                                    namespaces:命名空间
+cluster roles：集群角色                                   accounts：账户                                            storage：存储                                                         deployments：部署                 
+links：链接                                                     denied：拒绝                                                 access：进入                                                           report：报告         
+results：结果                                                  displayed：显示                                             solution:解决办法                                                  folder：文件夹
+intrusion detection system:入侵检测系统                 intrusion prevention system:入侵防御系统            SMB：server message block:这个协议用于共享文件，共享打印机，共享串口等用途
+Fuzzing:(fuzz testing,fuzzing)是一种软件测试技术，模糊测试                                           citrix systems metaframe:思杰系统框架
+xendesktop:桌面虚拟化                                   resoutces:资源                                              daemon：守护进程                               resoponse：响应
+Near Realtime:(NRT)近乎实时                       drive Encryption:驱动器加密                       Ponemon Institute：数据安全中心           Complete：完整的
+data：数据                                Protection：保护                                 security：安全                       zone：区域                      outbount:出站方向                        inbount：入口方向
+packet filtering:包过滤             Application proxy：应用代理              stateful inspection：状态检测                compelete content inspection：完全内容检测
+subject：话题                   attendees：参与者                 absent：缺席者                        venue：场地                    agenda：会议议题                 endpoint:终端                 discover:发现
+prevent：阻碍                  monitor：监控                 cryptography：密码                   changelog：更新日志             document control：文件控制                  tracker：跟踪系统
+access control：访问控制                  endpoint protection：端点防护                  Web gateway protection：web网关防护                    Email gateway protection：邮件网关防护
+mobile：移动                workstation：工作站                 patching：修补              public cloud:共有云              collaboration：合作          active directory：安装目录
+changes：变化             normal：正常的                 standard：标准的                
